@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        
+        <CheckBoxPreference 
+            android:key="desactivar_sonido"
+            android:title="@string/desactivar_sonido_label"
+            android:summary="Desactivar el sonido del boton aceptar de nuevo campus"/>
+        <CheckBoxPreference 
+            android:key="desactivar_bienvenida"
+            android:title="@string/desactivar_bienvenida_label"
+            android:summary="Desactiva el mensaje de bienvenida"
+            android:defaultValue="true"/>
+        <CheckBoxPreference
+            android:key="cambiar_fondo"
+            android:title="@string/activar_fondo_label"
+            android:summary="Cambiar fondo azul"
+            />
+
+</PreferenceScreen>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/AbsoluteLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="34dp"
+        android:layout_y="12dp"
+        android:text="@string/nombre_campus" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="34dp"
+        android:layout_y="67dp"
+        android:text="@string/tvPaiscampus" />
+
+    <EditText
+        android:id="@+id/etCampusPais"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="36dp"
+        android:layout_y="84dp"
+        android:ems="10"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/etNombreCampus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="34dp"
+        android:layout_y="28dp"
+        android:ems="10"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="34dp"
+        android:layout_y="128dp"
+        android:text="@string/opinionCampus" />
+
+    <EditText
+        android:id="@+id/etOpinionCampus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="34dp"
+        android:layout_y="148dp"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/btAceptarCampus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="50dp"
+        android:layout_y="382dp"
+        android:text="@string/boton_aceptar" />
+
+    <Button
+        android:id="@+id/btCancelarCampus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="162dp"
+        android:layout_y="381dp"
+        android:text="@string/boton_cancelar" />
+
+    <CheckBox
+        android:id="@+id/cbHasEstado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="18dp"
+        android:layout_y="244dp"
+        android:text="@string/has_estado" />
+
+    <CheckBox
+        android:id="@+id/cbTicket"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_x="19dp"
+        android:layout_y="300dp"
+        android:text="@string/tienes_ticket" />
+
+    <CheckBox
+        android:id="@+id/cbVasIr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="121dp"
+        android:layout_y="296dp"
+        android:text="@string/vas_a_ir" />
+
+</AbsoluteLayout>

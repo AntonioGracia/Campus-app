@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Campus</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lista_campus">Campus list</string>
+    <string name="tab_derecha">Main</string>
+    <string name="menu_nueva_campus">New Campus</string>
+    <string name="menu_preferencias_label">Preferences</string>
+    <string name="menu_about_label">About of</string>
+    <string name="title_activity_nueva_campus">New campus</string>
+    <string name="favorito">Favourite</string>
+    <string name="boton_aceptar">Accept</string>
+    <string name="boton_cancelar">Cancel</string>
+    <string name="boton_posicion">My Position</string>
+    <string name="boton_Distancia">Distance</string>
+    <string name="sin_datos">There are not Restaurantes</string>
+    <string name="confirma_campus_nueva">Campus party registered</string>
+    <string name="btmi_posicion">My Position</string>
+    <string name="bt_distancia">Distance</string>
+    <string name="error_message">Fault on loading data</string>
+    <string name="datos_message">Data loaded</string>
+    <string name="acerca_de_title">About of Campus v1.5</string>
+    <string name="btaceptar_label">Accept</string>
+    <string name="acerca_de_message">Campus 1.5\nCampus party para Android\n(c) 2014 Antonio Gracia</string>
+    <string name="title_activity_preferencias">Preferences</string>
+    <string name="boton_mapa">Map</string>
+    <string name="title_activity_tab2">Tab2</string>
+    <string name="ver_el_mapa">See the map</string>
+    <string name="title_mapa">Map</string>
+    <string name="title_activity_mapa2">Mapa2</string>
+    <string name="title_activity_campuses">CampusesActivity</string>
+    <string name="me_gusta">I like</string>
+    <string name="btNuevaCampusOpinion">New Campus</string>
+    <string name="ver_las_campus">See the campus</string>
+    <string name="nombre_campus">Name</string>
+    <string name="tvPaiscampus">Country</string>
+    <string name="opinionCampus">Opinon</string>
+    <string name="has_estado">Were you there?</string>
+    <string name="tienes_ticket">Ticket</string>
+    <string name="vas_a_ir">¿Will you go?</string>
+    <string name="nombre_campus_2">NameCampus</string>
+    <string name="pais_campus_2">Country Campus</string>
+    <string name="desactivar_sonido_label">Sound off</string>
+    <string name="desactivar_bienvenida_label">Welcome off</string>
+    <string name="activar_fondo_label">Background colour</string>
+    
+
+</resources>
